@@ -146,3 +146,7 @@ uv build
 Проверка собранных пакетов:
 
 uvx twine check dist/*
+
+## Демонстрация
+
+https://asciinema.org/a/BUojQ7lAjWsGIzGA
