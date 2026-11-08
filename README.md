@@ -149,4 +149,4 @@ uvx twine check dist/*
 
 ## Демонстрация
 
-https://asciinema.org/a/BUojQ7lAjWsGIzGA
+h[ttps://asciinema.org/a/BUojQ7lAjWsGIzGA](https://asciinema.org/a/IzpeBDFM5hZGGA58)
